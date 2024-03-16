@@ -9,7 +9,7 @@
 
 </p>
 <p align="center">
-<a href="https://instagram.com/fwbajakita"><img alt="replit" src="https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://telegram.me/LuciferBukanRobot"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://instagram.com/fwbajakita"><img alt="replit" src="https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://telegram.me/LuciferBukanRobot"><img alt="replit" src="https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
 <br>
