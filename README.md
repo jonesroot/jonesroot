@@ -23,7 +23,7 @@
 
 ## GitHub Stats
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=jonesroot&hide=prs&count_public=true&show_icons=true&theme=algolia)](https://github.com/jonesroot)
+[![Lucifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonesroot&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/jonesroot/github-readme-stats#gh-dark-mode-only)
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonesroot&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonesroot&theme=chartreuse-dark" alt="mystreak"/>
 <a href="https://github.com/jonesroot"><img width=550 src="https://github-profile-trophy.vercel.app/?username=jonesroot&theme=dracula&no-frame=true&title=Commit"/></a>
