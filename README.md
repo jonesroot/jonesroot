@@ -1,6 +1,6 @@
 ## WELCOME!!
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3BF723&center=true&vCenter=true&multiline=true&random=true&width=435&lines=Welcome+to+Lucifer+Profile+Github+.." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3BF723&center=true&vCenter=true&multiline=true&random=true&width=435&lines=Welcome+to+My+Profile+.." alt="Typing SVG" /></a>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3BF723&center=true&vCenter=true&multiline=true&random=true&width=435&lines=I'm+still+Learning+..)](https://git.io/typing-svg)
@@ -9,7 +9,7 @@
 
 </p>
 <p align="center">
-<a href="https://instagram.com/fwbajakita"><img alt="replit" src="https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://telegram.me/LuciferBukanRobot"><img alt="replit" src="https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://instagram.com/fwbajakita"><img alt="replit" src="https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://telegram.me/LuciferReborns"><img alt="replit" src="https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
 <br>
@@ -37,4 +37,4 @@
 ## Contact Me 
 
 <p align="center">
-<a href="https://telegram.me/LuciferBukanRobot"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://telegram.me/LuciferReborns"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
