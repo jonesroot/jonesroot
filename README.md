@@ -1,4 +1,4 @@
-# 👋 Hello, World! I'm Lucifer  
+# 👋 Hello, World! I'm Lucifer 
 
 ### 🚀 Welcome to My GitHub Universe!  
 *(Simplifying the world, one line of Python at a time)*  
@@ -7,20 +7,22 @@
 
 ## 🧑‍💻 About Me  
 
-Hi there! I'm **Lucifer**, a passionate developer specializing in **Telegram Bot development** and Python programming. I enjoy building automation tools, creating intuitive bots, and solving everyday problems with efficient code.  
+Greetings! I'm **Lucifer**, a dedicated developer with a flair for **Telegram Bot development** and Python programming. I’m on a mission to craft automation tools, intuitive bots, and innovative solutions to everyday tech challenges.  
 
-- 🛠️ **Expertise:** Telegram Bot API, Python scripting, and automation.  
-- ⚡ **Passion:** Building intelligent, user-friendly bots to make life easier.  
-- 🌱 **Currently Learning:** Advanced API integrations and cloud services for bot hosting.  
+- 🛠️ **Skills:** Proficient in Telegram Bot API, clever Python scripting, and seamless automation.  
+- ⚡ **Passion:** My goal is to build smart, user-friendly bots that enhance everyday productivity.  
+- 🌱 **Currently Exploring:** Mastering advanced API integrations and cloud services for top-notch bot hosting.  
 
 ---
 
 ## 🔗 Connect with Me  
 
+Let’s network and collaborate!  
 - **GitHub:** [Lucifer](https://github.com/jonesroot/jonesroot/blob/main/README.md)  
 - **Instagram:** [@GuaGatauDah](https://instagram.com/guagataudah)  
 - **Telegram:** [Lucifer](https://t.me/LuciferReborns)  
-- **Group Support** [Group Support](https://t.me/GokilSupport)
+- **Join the Community:** [Group Support](https://t.me/GokilSupport)
+
 ---
 
 ## 🧰 My Toolbelt  
@@ -35,16 +37,16 @@ Hi there! I'm **Lucifer**, a passionate developer specializing in **Telegram Bot
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)  
 
 ### What I Do:  
-- 🤖 **Telegram Bot Development**  
-- 🔧 **Automation Scripts**  
-- 🗂️ **Database Integration**  
-- 🌐 **API Integration**  
+- 🤖 **Innovative Telegram Bot Development**  
+- 🔧 **Smart Automation Scripts**  
+- 🗂️ **Dynamic Database Integration**  
+- 🌐 **Seamless API Integration**  
 
 ---
 
 ## 📈 GitHub Stats  
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LuciferReborns)](https://github.com/jonesroot/github-readme-stats)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=LuciferReborns)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonesroot&layout=compact&theme=tokyonight)  
 
 ---
@@ -52,32 +54,31 @@ Hi there! I'm **Lucifer**, a passionate developer specializing in **Telegram Bot
 ## 🌟 Featured Projects  
 
 ### 1. **[UserBot Telegram](https://github.com/jonesroot/Mix-Userbot/tree/dev)**  
-A stable pluggable Telegram userbot based on Pyrogram:
-- Support Voice & Video Call music bot.
-- Support Multi Language, If You want more language Contact Me On Telegram.
-- Based on MONGODB as Database.
+A robust, pluggable Telegram userbot powered by Pyrogram:
+- 🎶 Supports Voice & Video Call music functions.
+- 🌍 Multi-language support available—reach out to me for additional languages!
+- 🔗 Built on MongoDB for reliable database management.
 
 ### 2. **[UserBot Telegram 2](https://github.com/jonesroot/Lucifer-UserBot)**  
-A stable pluggable Telegram userbot based on Telethon:
-## 
-It's not working anymore.
+A reliable pluggable Telegram userbot based on Telethon:
+- Unfortunately, this project is no longer active, but stay tuned for future projects!
 
-
-*(Check out my repositories for more projects!)*  
+*(Feel free to explore my repositories for more exciting projects!)*  
 
 ---
 
 ## 🛠️ Work Process  
 
-1. **Plan:** Understand requirements and design efficient solutions.  
-2. **Build:** Develop clean, maintainable, and scalable code.  
-3. **Test:** Perform rigorous testing to ensure reliability.  
-4. **Deploy:** Deliver and host the solution for real-world use.  
+1. **Plan:** Carefully gather requirements and strategize efficient solutions.  
+2. **Build:** Create clean, maintainable, and scalable code.  
+3. **Test:** Rigorously test for reliability and performance.  
+4. **Deploy:** Launch and host solutions for real-world application.  
 
 ---
 
 ## 📬 Contact Me  
 
+I’m always open to chat and collaborations!  
 - **Telegram:** [Lucifer](https://t.me/LuciferReborns)  
 - **Instagram:** [@GuaGatauDah](https://instagram.com/GuaGatauDah)  
 
