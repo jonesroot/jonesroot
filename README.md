@@ -18,7 +18,7 @@ Hi there! I'm **Lucifer**, a passionate developer specializing in **Telegram Bot
 ## 🔗 Connect with Me  
 
 - **GitHub:** [Lucifer](https://github.com/jonesroot/jonesroot/blob/main/README.md)  
-- **Instagram:** [@Lucifer](https://instagram.com/guagataudah)  
+- **Instagram:** [@GuaGatauDah](https://instagram.com/guagataudah)  
 - **Telegram:** [Lucifer](https://t.me/LuciferReborns)  
 - **Group Support** [Group Support](https://t.me/GokilSupport)
 ---
@@ -44,7 +44,7 @@ Hi there! I'm **Lucifer**, a passionate developer specializing in **Telegram Bot
 
 ## 📈 GitHub Stats  
 
-![Lucifer's GitHub Stats](![Lucifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonesroot&show_icons=true&theme=transparent))  
+(![Lucifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonesroot&show_icons=true&theme=transparent))  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonesroot&layout=compact&theme=tokyonight)  
 
 ---
