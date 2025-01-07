@@ -1,40 +1,84 @@
-## WELCOME!!
+# 👋 Hello, World! I'm Lucifer  
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3BF723&center=true&vCenter=true&multiline=true&random=true&width=435&lines=Welcome+to+My+Profile+.." alt="Typing SVG" /></a>
-</p>
+### 🚀 Welcome to My GitHub Universe!  
+*(Simplifying the world, one line of Python at a time)*  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3BF723&center=true&vCenter=true&multiline=true&random=true&width=435&lines=I'm+still+Learning+..)](https://git.io/typing-svg)
+---
 
-## Find Me on
+## 🧑‍💻 About Me  
 
-</p>
-<p align="center">
-<a href="https://instagram.com/fwbajakita"><img alt="replit" src="https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://telegram.me/LuciferReborns"><img alt="replit" src="https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-</p>
+Hi there! I'm **Lucifer**, a passionate developer specializing in **Telegram Bot development** and Python programming. I enjoy building automation tools, creating intuitive bots, and solving everyday problems with efficient code.  
 
-<br>
-<br>
-<p align="center">
-<img src="https://profile-counter.glitch.me/{jonesroot}/count.svg" alt="Lucifer :: Visitor's Count" />
+- 🛠️ **Expertise:** Telegram Bot API, Python scripting, and automation.  
+- ⚡ **Passion:** Building intelligent, user-friendly bots to make life easier.  
+- 🌱 **Currently Learning:** Advanced API integrations and cloud services for bot hosting.  
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=jonesroot&color=656b68" alt="watching_count" />
-</p>
+---
 
-## GitHub Stats
+## 🔗 Connect with Me  
 
-[![Lucifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonesroot&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/jonesroot/github-readme-stats#gh-dark-mode-only)
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonesroot&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonesroot&theme=chartreuse-dark" alt="mystreak"/>
-<a href="https://github.com/jonesroot"><img width=550 src="https://github-profile-trophy.vercel.app/?username=jonesroot&theme=dracula&no-frame=true&title=Commit"/></a>
+- **GitHub:** [Lucifer](https://github.com/jonesroot/jonesroot/blob/main/README.md)  
+- **Instagram:** [@Lucifer](https://instagram.com/guagataudah)  
+- **Telegram:** [Lucifer](https://t.me/LuciferReborns)  
+- **Group Support** [Group Support](https://t.me/GokilSupport)
+---
 
-## Follow Me On Instagram
+## 🧰 My Toolbelt  
 
-<h3 align="center">
-<img alt="Static Badge" src="https://img.shields.io/badge/Instagram-blue?style=social&logo=Telegram&logoColor=black&label=Find%20Me%20On&labelColor=black&color=black&cacheSeconds=3600&link=https%3A%2F%2Fwww.instagram.com%2Ffwbajakita">
-</p>
+### Languages & Tools:  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+![Telegram Bot API](https://img.shields.io/badge/-Telegram%20Bot%20API-2CA5E0?style=flat-square&logo=telegram&logoColor=white)  
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)  
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)  
 
-## Contact Me 
+### What I Do:  
+- 🤖 **Telegram Bot Development**  
+- 🔧 **Automation Scripts**  
+- 🗂️ **Database Integration**  
+- 🌐 **API Integration**  
 
-<p align="center">
-<a href="https://telegram.me/LuciferReborns"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+---
+
+## 📈 GitHub Stats  
+
+![Lucifer's GitHub Stats](![Lucifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonesroot&show_icons=true&theme=transparent))  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonesroot&layout=compact&theme=tokyonight)  
+
+---
+
+## 🌟 Featured Projects  
+
+### 1. **[UserBot Telegram](https://github.com/jonesroot/Mix-Userbot/tree/dev)**  
+A stable pluggable Telegram userbot based on Pyrogram:
+- Support Voice & Video Call music bot.
+- Support Multi Language, If You want more language Contact Me On Telegram.
+- Based on MONGODB as Database.
+
+### 2. **[UserBot Telegram 2](https://github.com/jonesroot/Lucifer-UserBot)**  
+A stable pluggable Telegram userbot based on Telethon:
+## 
+It's not working anymore.
+
+
+*(Check out my repositories for more projects!)*  
+
+---
+
+## 🛠️ Work Process  
+
+1. **Plan:** Understand requirements and design efficient solutions.  
+2. **Build:** Develop clean, maintainable, and scalable code.  
+3. **Test:** Perform rigorous testing to ensure reliability.  
+4. **Deploy:** Deliver and host the solution for real-world use.  
+
+---
+
+## 📬 Contact Me  
+
+- **Telegram:** [t.me/Lucifer](https://t.me/LuciferReborns)  
+- **Instagram:** [@Lucifer](https://instagram.com/GuaGatauDah)  
+
+---
