@@ -78,7 +78,7 @@ It's not working anymore.
 
 ## 📬 Contact Me  
 
-- **Telegram:** [t.me/Lucifer](https://t.me/LuciferReborns)  
-- **Instagram:** [@Lucifer](https://instagram.com/GuaGatauDah)  
+- **Telegram:** [Lucifer](https://t.me/LuciferReborns)  
+- **Instagram:** [@GuaGatauDah](https://instagram.com/GuaGatauDah)  
 
 ---
