@@ -44,9 +44,8 @@ Let’s network and collaborate!
 
 ---
 
-## 📈 GitHub Stats  
+## 📈 Top Languages
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=LuciferReborns)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonesroot&layout=compact&theme=tokyonight)  
 
 ---
