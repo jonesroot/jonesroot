@@ -44,7 +44,7 @@ Hi there! I'm **Lucifer**, a passionate developer specializing in **Telegram Bot
 
 ## 📈 GitHub Stats  
 
-![Lucifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonesroot&show_icons=true&theme=transparent)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LuciferReborns)](https://github.com/jonesroot/github-readme-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonesroot&layout=compact&theme=tokyonight)  
 
 ---
