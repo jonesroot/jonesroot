@@ -9,9 +9,8 @@
 
 Greetings! I'm **Lucifer**, a dedicated developer with a flair for **Telegram Bot development** and Python programming. I’m on a mission to craft automation tools, intuitive bots, and innovative solutions to everyday tech challenges.  
 
-- 🛠️ **Skills:** Proficient in Telegram Bot API, clever Python scripting, and seamless automation.  
-- ⚡ **Passion:** My goal is to build smart, user-friendly bots that enhance everyday productivity.  
-- 🌱 **Currently Exploring:** Mastering advanced API integrations and cloud services for top-notch bot hosting.  
+[//]: # (wakatime-stats)
+[//]: # (end-wakatime-stats)
 
 ---
 
