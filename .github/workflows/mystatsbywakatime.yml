@@ -10,6 +10,7 @@ jobs:
     name: Update wakatime stats charts
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
       - uses: mamboer/waka-charts@main
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
