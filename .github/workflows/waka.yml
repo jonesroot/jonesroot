@@ -1,4 +1,4 @@
-name: My Stats By Wakatime
+name: WakaHS
 
 on:
   workflow_dispatch:
