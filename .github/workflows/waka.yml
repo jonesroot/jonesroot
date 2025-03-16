@@ -1,0 +1,18 @@
+name: My Stats By Wakatime
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  update-charts:
+    name: Update wakatime stats charts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: WakaHS - Update GitHub Profile
+        uses: fishjump/WakaHS@0.2.3-dev
+        with:
+          gh_token: ${{ secrets.GH_TOKEN }}
+          waka_api_key: ${{ secrets.WAKA_API_KEY }}
