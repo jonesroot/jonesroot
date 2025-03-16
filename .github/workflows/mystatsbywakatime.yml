@@ -1,0 +1,27 @@
+name: My Stats By Wakatime
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  update-charts:
+    name: Update wakatime stats charts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: mamboer/waka-charts@main
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          WAKATIME_LANG_LIMIT: 5
+          WAKATIME_CHART_WIDTH: 540
+          WAKATIME_CHART_HEIGHT: 168
+          WAKATIME_CHART_BAR_HEIGHT: 34
+          WAKATIME_CHART_MARGIN_X: 12
+          WAKATIME_CHART_MARGIN_Y: 4
+          WAKATIME_CHART_PADDING: 2
+          WAKATIME_CHART_COL_NAME_WIDTH: 100
+          WAKATIME_CHART_COL_DURATION_WIDTH: 110
+          WAKATIME_CHART_DYNAMIC_HEIGHT: true
+          COMMIT_MESSAGE: 📊 MyStats 
