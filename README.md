@@ -9,8 +9,8 @@
 
 Greetings! I'm **Lucifer**, a dedicated developer with a flair for **Telegram Bot development** and Python programming. I’m on a mission to craft automation tools, intuitive bots, and innovative solutions to everyday tech challenges.  
 
-[//]: # (wakatime-stats)
-[//]: # (end-wakatime-stats)
+<!-- Wakatime-Start -->
+<!-- Wakatime-End -->
 
 ---
 
