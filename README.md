@@ -101,3 +101,8 @@ Let’s network and collaborate!
 - **Join the Community:** [Group Support](https://t.me/GokilSupport)
 
 ---
+
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jonesroot)](https://github.com/jonesroot/github-readme-stats)
+
+---
