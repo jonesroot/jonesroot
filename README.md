@@ -78,15 +78,6 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 ---
 
-## 🔗 Connect with Me  
-
-Let’s network and collaborate!  
-- **GitHub:** [Lucifer](https://github.com/jonesroot/jonesroot/blob/main/README.md)  
-- **Instagram:** [@GuaGatauDah](https://instagram.com/guagataudah)  
-- **Telegram:** [Lucifer](https://t.me/LuciferReborns)  
-- **Join the Community:** [Group Support](https://t.me/GokilSupport)
-
----
 
 ## 🧰 My Toolbelt  
 
@@ -101,10 +92,12 @@ Let’s network and collaborate!
 ---
 
 
-## 📬 Contact Me  
+## 🔗 Connect with Me  
 
-I’m always open to chat and collaborations!  
+Let’s network and collaborate!  
+- **GitHub:** [Lucifer](https://github.com/jonesroot/jonesroot/blob/main/README.md)  
+- **Instagram:** [@GuaGatauDah](https://instagram.com/guagataudah)  
 - **Telegram:** [Lucifer](https://t.me/LuciferReborns)  
-- **Instagram:** [@GuaGatauDah](https://instagram.com/GuaGatauDah)  
+- **Join the Community:** [Group Support](https://t.me/GokilSupport)
 
 ---
