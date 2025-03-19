@@ -5,7 +5,11 @@
 
 ---
 
-## 🧑‍💻 About Me  
+## 🧑‍💻 About Me
+
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LuciferReborns)](https://github.com/jonesroot/github-readme-stats)
+
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2053%20mins-blue)
@@ -99,10 +103,5 @@ Let’s network and collaborate!
 - **Instagram:** [@GuaGatauDah](https://instagram.com/guagataudah)  
 - **Telegram:** [Lucifer](https://t.me/LuciferReborns)  
 - **Join the Community:** [Group Support](https://t.me/GokilSupport)
-
----
-
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LuciferReborns)](https://github.com/jonesroot/github-readme-stats)
 
 ---
