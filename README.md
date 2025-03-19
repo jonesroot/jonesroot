@@ -103,6 +103,6 @@ Let’s network and collaborate!
 ---
 
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jonesroot)](https://github.com/jonesroot/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LuciferReborns)](https://github.com/jonesroot/github-readme-stats)
 
 ---
