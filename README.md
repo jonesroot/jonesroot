@@ -12,7 +12,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profil%20dilihat-199-blue)
 
@@ -47,14 +47,15 @@ Minggu                   12995 commits       ████░░░░░░░�
 🕑︎ Zona waktu: Asia/Jakarta
 
 💬 Bahasa: 
-Text                     4 hrs 28 mins       ████████████████████████░   95.69 % 
-text                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+Text                     2 hrs 33 mins       ██████████████░░░░░░░░░░░   55.25 % 
+sh                       1 hr 57 mins        ███████████░░░░░░░░░░░░░░   42.19 % 
+Python                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 
 🔥 Editor: 
-Acode                    4 hrs 40 mins       █████████████████████████   100.00 % 
+Acode                    4 hrs 37 mins       █████████████████████████   100.00 % 
 
 💻 Sistem Operasi: 
-Android                  4 hrs 40 mins       █████████████████████████   100.00 % 
+Android                  4 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 **Kebanyakan menulis dalam bahasa Python** 
@@ -73,7 +74,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jonesroot/jonesroot/main/assets/bar_graph.png)
 
 
- Last Updated on 27/03/2025 18:27:37 UTC
+ Last Updated on 27/03/2025 20:13:30 UTC
 <!--END_SECTION:waka-->
 
 ---
