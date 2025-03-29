@@ -12,7 +12,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profil%20dilihat-198-blue)
 
@@ -61,10 +61,10 @@ Android                  3 hrs 8 mins        ███████████�
 **Kebanyakan menulis dalam bahasa Python** 
 
 ```text
-Python                   129 repos           ████████████████████████░   94.16 % 
-Shell                    5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
-JavaScript               2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
-TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+Python                   130 repos           ████████████████████████░   94.20 % 
+Shell                    5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+JavaScript               2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 ```
 
 
@@ -74,7 +74,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jonesroot/jonesroot/main/assets/bar_graph.png)
 
 
- Last Updated on 29/03/2025 08:08:10 UTC
+ Last Updated on 29/03/2025 10:09:25 UTC
 <!--END_SECTION:waka-->
 
 ---
