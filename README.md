@@ -12,7 +12,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profil%20dilihat-2-blue)
 
@@ -20,18 +20,16 @@
 
 > 📦 215.9 kB Digunakan di GitHub Storage 
  > 
-> 🏆 3,583 Kontribusi pada 2025
- > 
 > 💼 Sedang bisa dipekerjakan
  > 
-> 📜 29 Repositori publik 
+> 📜 30 Repositori publik 
  > 
 > 🔑 67 Repositori pribadi 
  > 
 📅 **Paling produktif saat Minggu** 
 
 ```text
-Senin                    10474 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+Senin                    10480 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
 Selasa                   8763 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
 Rabu                     10181 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
 Kamis                    9424 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
@@ -61,10 +59,10 @@ Android                  1 hr 28 mins        ███████████�
 **Kebanyakan menulis dalam bahasa Python** 
 
 ```text
-Python                   130 repos           ███████████████████████░░   93.53 % 
-Shell                    6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
-JavaScript               2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
-TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Python                   131 repos           ███████████████████████░░   93.57 % 
+Shell                    6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+JavaScript               2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 ```
 
 
@@ -74,7 +72,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jonesroot/jonesroot/main/assets/bar_graph.png)
 
 
- Last Updated on 07/04/2025 10:19:22 UTC
+ Last Updated on 07/04/2025 12:29:39 UTC
 <!--END_SECTION:waka-->
 
 ---
