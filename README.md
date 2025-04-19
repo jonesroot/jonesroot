@@ -12,7 +12,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profil%20dilihat-9-blue)
 
@@ -78,7 +78,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jonesroot/jonesroot/main/assets/bar_graph.png)
 
 
- Last Updated on 19/04/2025 10:12:37 UTC
+ Last Updated on 19/04/2025 12:10:07 UTC
 <!--END_SECTION:waka-->
 
 ---
