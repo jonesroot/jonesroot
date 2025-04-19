@@ -12,7 +12,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-64%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-65%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profil%20dilihat-9-blue)
 
@@ -24,9 +24,9 @@
  > 
 > 💼 Sedang bisa dipekerjakan
  > 
-> 📜 32 Repositori publik 
+> 📜 33 Repositori publik 
  > 
-> 🔑 68 Repositori pribadi 
+> 🔑 67 Repositori pribadi 
  > 
 📅 **Paling produktif saat Minggu** 
 
@@ -37,7 +37,7 @@ Rabu                     10183 commits       ███░░░░░░░░�
 Kamis                    9424 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
 Jumat                    9667 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
 Sabtu                    11482 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
-Minggu                   13011 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
+Minggu                   13031 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
 ```
 
 
@@ -65,9 +65,9 @@ Android                  5 hrs 16 mins       ██████████░�
 **Kebanyakan menulis dalam bahasa Python** 
 
 ```text
-Python                   132 repos           ███████████████████████░░   92.96 % 
-Shell                    6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
-JavaScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+Python                   132 repos           ███████████████████████░░   92.31 % 
+Shell                    6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+JavaScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
 TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 ```
 
@@ -78,7 +78,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jonesroot/jonesroot/main/assets/bar_graph.png)
 
 
- Last Updated on 19/04/2025 20:11:52 UTC
+ Last Updated on 19/04/2025 22:10:41 UTC
 <!--END_SECTION:waka-->
 
 ---
