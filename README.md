@@ -14,13 +14,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-85%20hrs%2025%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profil%20dilihat-9-blue)
+![Profile Views](http://img.shields.io/badge/Profil%20dilihat-8-blue)
 
 **🐱 Dataku di GitHub** 
 
 > 📦 221.6 kB Digunakan di GitHub Storage 
  > 
-> 🏆 3,871 Kontribusi pada 2025
+> 🏆 0 Kontribusi pada 2025
  > 
 > 💼 Sedang bisa dipekerjakan
  > 
@@ -76,7 +76,7 @@ TypeScript               2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jonesroot/jonesroot/main/assets/bar_graph.png)
 
 
- Last Updated on 27/04/2025 20:09:14 UTC
+ Last Updated on 27/04/2025 22:12:32 UTC
 <!--END_SECTION:waka-->
 
 ---
