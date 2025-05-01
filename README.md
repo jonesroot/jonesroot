@@ -12,13 +12,15 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-96%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-97%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profil%20dilihat-6-blue)
 
 **🐱 Dataku di GitHub** 
 
 > 📦 221.6 kB Digunakan di GitHub Storage 
+ > 
+> 🏆 3,873 Kontribusi pada 2025
  > 
 > 💼 Sedang bisa dipekerjakan
  > 
@@ -32,7 +34,7 @@
 Senin                    10572 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
 Selasa                   8952 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
 Rabu                     10223 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
-Kamis                    9538 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
+Kamis                    9542 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
 Jumat                    9680 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
 Sabtu                    11481 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
 Minggu                   13196 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
@@ -74,7 +76,7 @@ TypeScript               2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jonesroot/jonesroot/main/assets/bar_graph.png)
 
 
- Last Updated on 01/05/2025 03:25:19 UTC
+ Last Updated on 01/05/2025 04:25:25 UTC
 <!--END_SECTION:waka-->
 
 ---
