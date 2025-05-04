@@ -12,15 +12,13 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-122%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-124%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profil%20dilihat-3-blue)
 
 **🐱 Dataku di GitHub** 
 
 > 📦 221.8 kB Digunakan di GitHub Storage 
- > 
-> 🏆 3,887 Kontribusi pada 2025
  > 
 > 💼 Sedang bisa dipekerjakan
  > 
@@ -31,10 +29,10 @@
 📅 **Paling produktif saat Minggu** 
 
 ```text
-Senin                    10713 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
-Selasa                   9009 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-Rabu                     10265 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
-Kamis                    9789 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
+Senin                    10741 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+Selasa                   9009 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+Rabu                     10265 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+Kamis                    9789 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
 Jumat                    9734 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
 Sabtu                    11498 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
 Minggu                   13341 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
@@ -76,7 +74,7 @@ TypeScript               2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jonesroot/jonesroot/main/assets/bar_graph.png)
 
 
- Last Updated on 04/05/2025 20:09:49 UTC
+ Last Updated on 04/05/2025 22:11:10 UTC
 <!--END_SECTION:waka-->
 
 ---
