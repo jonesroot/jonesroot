@@ -12,9 +12,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-134%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-119%20hrs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profil%20dilihat-3-blue)
+![Profile Views](http://img.shields.io/badge/Profil%20dilihat-1-blue)
 
 **🐱 Dataku di GitHub** 
 
@@ -76,7 +76,7 @@ TypeScript               2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jonesroot/jonesroot/main/assets/bar_graph.png)
 
 
- Last Updated on 05/05/2025 16:25:22 UTC
+ Last Updated on 05/05/2025 18:12:17 UTC
 <!--END_SECTION:waka-->
 
 ---
