@@ -20,8 +20,6 @@
 
 > 📦 245.9 kB Digunakan di GitHub Storage 
  > 
-> 🏆 4,453 Kontribusi pada 2025
- > 
 > 💼 Sedang bisa dipekerjakan
  > 
 > 📜 38 Repositori publik 
@@ -76,7 +74,7 @@ JavaScript               6 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jonesroot/jonesroot/main/assets/bar_graph.png)
 
 
- Last Updated on 13/05/2025 22:15:41 UTC
+ Last Updated on 14/05/2025 00:53:14 UTC
 <!--END_SECTION:waka-->
 
 ---
