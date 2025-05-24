@@ -47,16 +47,13 @@ Minggu                   13497 commits       ████░░░░░░░�
 🕑︎ Zona waktu: Asia/Jakarta
 
 💬 Bahasa: 
-sh                       7 hrs 40 mins       ███████████████████████░░   93.56 % 
-Dockerfile               24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-Python                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Tidak ada aktivitas dilacak minggu Ini
 
 🔥 Editor: 
-Acode                    8 hrs 11 mins       █████████████████████████   100.00 % 
+Tidak ada aktivitas dilacak minggu Ini
 
 💻 Sistem Operasi: 
-Android                  8 hrs 11 mins       █████████████████████████   100.00 % 
+Tidak ada aktivitas dilacak minggu Ini
 ```
 
 **Kebanyakan menulis dalam bahasa Python** 
@@ -75,7 +72,7 @@ TypeScript               5 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jonesroot/jonesroot/main/assets/bar_graph.png)
 
 
- Last Updated on 24/05/2025 18:22:24 UTC
+ Last Updated on 24/05/2025 20:13:45 UTC
 <!--END_SECTION:waka-->
 
 ---
