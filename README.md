@@ -12,7 +12,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-205%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-205%20hrs%2035%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profil%20dilihat-5-blue)
 
@@ -47,13 +47,13 @@ Minggu                   13340 commits       ████░░░░░░░�
 🕑︎ Zona waktu: Asia/Jakarta
 
 💬 Bahasa: 
-Tidak ada aktivitas dilacak minggu Ini
+gitignore                1 min               █████████████████████████   100.00 % 
 
 🔥 Editor: 
-Tidak ada aktivitas dilacak minggu Ini
+Acode                    1 min               █████████████████████████   100.00 % 
 
 💻 Sistem Operasi: 
-Tidak ada aktivitas dilacak minggu Ini
+Android                  1 min               █████████████████████████   100.00 % 
 ```
 
 **Kebanyakan menulis dalam bahasa Python** 
@@ -72,7 +72,7 @@ TypeScript               4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jonesroot/jonesroot/main/assets/bar_graph.png)
 
 
- Last Updated on 25/05/2025 18:13:00 UTC
+ Last Updated on 25/05/2025 20:10:50 UTC
 <!--END_SECTION:waka-->
 
 ---
